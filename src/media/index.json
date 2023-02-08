@@ -1,0 +1,48 @@
+[
+  {
+    "id": "Q",
+    "name": "Chord-1",
+    "audio": "/Chord_1.mp3"
+  },
+  {
+    "id": "W",
+    "name": "Chord-2",
+    "audio": "/Chord_2.mp3"
+  },
+  {
+    "id": "E",
+    "name": "Chord-3",
+    "audio": "/Chord_3.mp3"
+  },
+  {
+    "id": "A",
+    "name": "Shaker",
+    "audio": "/Shaker.mp3"
+  },
+  {
+    "id": "S",
+    "name": "Open-hh",
+    "audio": "/Open_hh.mp3"
+  },
+  {
+    "id": "D",
+    "name": "Closed-hh",
+    "audio": "/Closed_hh.mp3"
+  },
+
+  {
+    "id": "Z",
+    "name": "Kick",
+    "audio": "/Kick.mp3"
+  },
+  {
+    "id": "X",
+    "name": "Stick",
+    "audio": "/Stick.mp3"
+  },
+  {
+    "id": "C",
+    "name": "Snare",
+    "audio": "/Snare.mp3"
+  }
+]
